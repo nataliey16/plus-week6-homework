@@ -149,9 +149,9 @@ span {
 
 .card {
   width: 200px;
-  padding: 80px;
+  padding: 20px 200px;
 }
 
 .col-1 {
-  padding: 20px;
+  padding: 20px 100px;
 }
