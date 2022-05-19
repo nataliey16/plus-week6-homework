@@ -1,6 +1,6 @@
 .container {
   background: #add8e5;
-  padding: 40px;
+  padding: 70px;
   border-radius: 20px;
   display: block;
   margin: 0 auto;
@@ -10,6 +10,7 @@
 
 .search-form {
   padding: 0 auto;
+  height: 50px;
 }
 input.form-control .rounded {
   position: relative;
@@ -19,8 +20,8 @@ input.form-control .rounded {
   text-align: center;
   cursor: pointer;
   height: 80px;
-  width: 80px;
 }
+
 input.form-control {
   position: relative;
   left: 250px;
