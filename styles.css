@@ -1,0 +1,155 @@
+.container {
+  background: #add8e5;
+  padding: 40px;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.search-form {
+  padding: 0 auto;
+}
+input.form-control .rounded {
+  position: relative;
+  left: 2000px;
+  bottom: 5px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+input.form-control {
+  position: relative;
+  left: 250px;
+}
+
+.submitButton {
+  position: relative;
+  left: 950px;
+  bottom: 65px;
+  border-radius: 10px;
+  border-color: white;
+}
+.submitButton:hover {
+  background: #a7bcb9;
+}
+
+.gpsButton {
+  position: relative;
+  left: 1060px;
+  bottom: 131px;
+  padding: 18px;
+  border-radius: 10px;
+  border-color: white;
+}
+.gpsButton:hover {
+  background: #a7bcb9;
+}
+
+p,
+span {
+  text-align: center;
+  font-size: 50px;
+  color: #939aa9;
+}
+/* .both-temp {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}  */
+.celsius,
+.farhenheit {
+  text-decoration: none;
+  font-size: 40px;
+  color: #939aa9;
+  display: inline-block;
+  text-align: center;
+}
+
+.current-temp {
+  display: block;
+  margin: 0 auto;
+}
+
+.input-group,
+.rounded {
+  padding: 30px 0px;
+  /* position: relative;
+  left: 80px; */
+}
+
+.day-of-week,
+.time,
+.city {
+  font-size: 30px;
+  text-align: center;
+  color: #939aa9;
+}
+
+.col-3 {
+  text-align: center;
+}
+
+.city {
+  text-align: center;
+}
+
+.cloud-sun-icon {
+  font-size: 150px;
+  position: relative;
+  text-align: center;
+  padding: 20px;
+  color: #53a8b6;
+}
+
+.current-description,
+.current-high-low {
+  font-size: 25px;
+  display: block;
+  margin: 0 auto;
+}
+
+.week-temp-icon {
+  font-size: 40px;
+  text-align: center;
+  color: #53a8b6;
+}
+
+.five-day-temp {
+  justify-items: center;
+  border: 30px;
+}
+
+.row {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  grid-auto-flow: column;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.card-title {
+  font-size: 20px;
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+  font-size: 20px;
+}
+
+.card-body {
+  display: block;
+  margin: 0 auto;
+}
+
+.card {
+  width: 200px;
+  padding: 30px;
+}
+
+.col-1 {
+  padding: 20px;
+}
