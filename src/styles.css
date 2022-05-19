@@ -1,11 +1,11 @@
 .container {
   background: #add8e5;
-  padding: 70px;
+  padding: 50px;
   border-radius: 20px;
   display: block;
   margin: 0 auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .search-form {
@@ -129,8 +129,7 @@ span {
   justify-content: center;
   align-content: center;
   grid-auto-flow: column;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 0px 0px;
 }
 
 .card-title {
@@ -149,10 +148,15 @@ span {
 }
 
 .card {
-  width: 200px;
+  width: 100px;
   padding: 20px 200px;
 }
 
 .col-1 {
-  padding: 20px 100px;
+  padding: 10px 100px;
+}
+
+.weather-box {
+  padding: 0px 30px;
+  border: 50px;
 }
