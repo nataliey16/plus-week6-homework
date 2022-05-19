@@ -18,6 +18,8 @@ input.form-control .rounded {
   display: inline-block;
   text-align: center;
   cursor: pointer;
+  height: 80px;
+  width: 80px;
 }
 input.form-control {
   position: relative;
