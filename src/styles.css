@@ -129,7 +129,6 @@ span {
   justify-content: center;
   align-content: center;
   grid-auto-flow: column;
-  padding: 0px 0px;
 }
 
 .card-title {
