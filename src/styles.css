@@ -160,3 +160,9 @@ span {
   padding: 0px 30px;
   border: 50px;
 }
+
+.git-repository-link {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
